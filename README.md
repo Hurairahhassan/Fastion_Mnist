@@ -1,7 +1,7 @@
 ## Project Overview
 The project focuses on evaluating the performance of a machine learning model using precision and recall metrics. It involves training a model on a labeled dataset and then assessing its accuracy, precision, and recall on a separate test dataset.
 
-##Objective
+## Objective
 The main objective of the project is to assess how well the machine learning model performs in terms of correctly identifying and classifying different images. The precision and recall metrics provide insights into the model's ability to make accurate predictions and correctly identify specific classes.
 
 ## Dataset
